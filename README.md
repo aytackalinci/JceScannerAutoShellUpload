@@ -6,7 +6,7 @@ Mass Joomla JCE Scanner
 
 Usage ; 
 
-php jce.php liste.txt ( Mass WebSite List )
+php jce.php liste.txt ( Mass website List )
 
 aytac.gif ( Open Text Editor , here your shell code )
 
